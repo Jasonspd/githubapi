@@ -1,23 +1,23 @@
 ### Jason Luu NodeJS Exercise
 
 #### How to run
-Initial setup: `npm install`
-Run tests: `npm run test`
-Run dev: `npm run dev`
+- Initial setup: `npm install`
+- Run tests: `npm run test`
+- Run dev: `npm run dev`
 
 #### Routes
-React client is on: `localhost:3000`
-NodeJS server is on: `localhost:5000`
-To view Repos API: 
-`localhost:5000/repos/[REPO USER]` 
-`e.g. localhost:5000/repos/nodejs`
-To view Issues for NodeJS Repo: `localhost:5000/issues/[REPO NAME]`
-`e.g. localhost:5000/issues/automation`
+- React client is on: `localhost:3000`
+- NodeJS server is on: `localhost:5000`
+- To view Repos API: 
+- `localhost:5000/repos/[REPO USER]` 
+- `e.g. localhost:5000/repos/nodejs`
+- To view Issues for NodeJS Repo: `localhost:5000/issues/[REPO NAME]`
+- `e.g. localhost:5000/issues/automation`
 
 #### Files:
-**Index.j**s - main nodejs express server
-**app/** - directory for react client
-**app/components/repos/repos.js** - main component that lists repo's and opens issues on click
+- **Index.j**s - main nodejs express server
+- **app/** - directory for react client
+- **app/components/repos/repos.js** - main component that lists repo's and opens issues on click
 
 #### Process:
 - Created a simple nodejs server with express and nodemon
