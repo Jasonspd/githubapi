@@ -1,6 +1,7 @@
 ### Jason Luu NodeJS Exercise
 
 #### How to run
+Initial setup: `npm install`
 Run tests: `npm run test`
 Run dev: `npm run dev`
 
